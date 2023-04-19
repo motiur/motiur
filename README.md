@@ -1,6 +1,6 @@
 # Hi there, Guten Tag 👋
 
-![Banner Image](https://github.com/motiur/motiur/blob/main/IMG_20220730_181856.jpg)
+![Banner Image](https://github.com/motiur/motiur/blob/main/PXL_20230225_012446615~2.jpg)
 
 Welcome to my GitHub profile! 
 I'm Mohammad Motiur Rahman, a passionate developer and tech enthusiast who loves solving complex problems, learning new things, and making the world a better place through code.
