@@ -14,13 +14,13 @@ In my spare time, you'll find me exploring new technologies, writing articles, a
 
 ### 🌱 What I'm currently learning
 
-- [Equivariant Networks]
+- Equivariant Networks
 
 ---
 
 ### 💼 My skillset
 
-- **Languages**: [C++, Python]
+- **Languages**: C++, Python
 
 ---
 
@@ -28,7 +28,7 @@ In my spare time, you'll find me exploring new technologies, writing articles, a
 
 Feel free to connect with me on any of the following platforms:
 
-- 📧 Email: [mohammadmotiurrahman@gmail.com]
+- 📧 Email: mohammadmotiurrahman@gmail.com
 
 ---
 
@@ -42,13 +42,13 @@ Feel free to connect with me on any of the following platforms:
 
 ## 🏆 Recent achievements
 
-- [None]
+- None
 
 ---
 
 ## 🌟 Featured projects
 
-- **[Project1](https://github.com/yourusername/motiur)**: Just because.
+- **[Project1](https://github.com/motiur/motiur)**: Just because.
 
 ---
 
