@@ -48,7 +48,7 @@ Feel free to connect with me on any of the following platforms:
 
 ## 🌟 Featured projects
 
-- **[Project1](https://github.com/yourusername/project1)**: A brief description of the project and its features.
+- **[Project1](https://github.com/yourusername/motiur)**: Just because.
 
 ---
 
