@@ -8,22 +8,19 @@ Welcome to my GitHub profile! I'm Mohammad Motiur Rahman, a passionate developer
 
 ## 🔭 About Me
 
-I'm a [YourRole] at [YourCompany] with expertise in [YourSkills], and I'm currently working on some exciting projects. I am always eager to contribute to open-source projects and collaborate with other developers.
+I'm currently working on some exciting projects. I am always eager to contribute to open-source projects and collaborate with other developers.
 
 In my spare time, you'll find me exploring new technologies, writing articles, attending meetups, or contributing to open-source projects. I believe that sharing knowledge is one of the best ways to learn and grow as a developer.
 
 ### 🌱 What I'm currently learning
 
-- [Topic1]
-- [Topic2]
-- [Topic3]
+- [Equivariant Networks]
+
+---
 
 ### 💼 My skillset
 
-- **Languages**: [Languages]
-- **Frameworks/Libraries**: [Frameworks/Libraries]
-- **Databases**: [Databases]
-- **Tools**: [Tools]
+- **Languages**: [C++, Python]
 
 ---
 
@@ -31,35 +28,27 @@ In my spare time, you'll find me exploring new technologies, writing articles, a
 
 Feel free to connect with me on any of the following platforms:
 
-- 📧 Email: [YourEmail]
-- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [YourTwitter](https://twitter.com/yourusername)
-- 🌐 Blog: [YourBlog](https://www.yourblog.com/)
-- 🎨 Portfolio: [YourPortfolio](https://www.yourportfolio.com/)
+- 📧 Email: [mohammadmotiurrahman@gmail.com]
 
 ---
 
 ## 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadmotiurrahman&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=motiur&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmotiurrahman&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiur&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Recent achievements
 
-- [Achievement1]
-- [Achievement2]
-- [Achievement3]
+- [None]
 
 ---
 
 ## 🌟 Featured projects
 
 - **[Project1](https://github.com/yourusername/project1)**: A brief description of the project and its features.
-- **[Project2](https://github.com/yourusername/project2)**: A brief description of the project and its features.
-- **[Project3](https://github.com/yourusername/project3)**: A brief description of the project and its features.
 
 ---
 
